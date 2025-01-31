@@ -1,0 +1,512 @@
+Unnamed: 0,odd_rows,even_rows,example
+0,energy,エネルギー,Akiya didn’t have energy to talk with his friends.
+1,condition,条件、コンディション,The condition of the car is excellent.
+2,stairs,階段,Shion climbed the stairs quickly to catch the train.
+3,flu,インフルエンザ,He stayed home because he caught the flu.
+4,celebrate,祝う,We plan to celebrate her birthday next week.
+5,remain,残る,Only a few cookies remain on the plate.
+6,design,デザインする,She decided to design her own dress for the party.
+7,prepare,準備する,He is working hard to prepare for the final exam.
+8,achievement,達成、功績,Winning the award was a big achievement for her.
+9,relationship,関係,They have a strong relationship built on trust.
+10,resource,資源,Water is one of the most important natural resources.
+11,theory,理論,She developed a new theory about the origins of the universe.
+12,surface,表面,"The surface of the water was calm, with no ripples."
+13,ability,能力,His ability to solve complex problems amazed everyone.
+14,research,調査,The research on renewable energy is progressing rapidly.
+15,accept,受け入れる,He was willing to accept the job offer from the company.
+16,melt,溶ける,The ice began to melt as the temperature rose.
+17,oversleep,寝坊する,I overslept and missed the first half of the meeting.
+18,invent,発明する,Thomas Edison is famous for helping invent the light bulb.
+19,stretch,伸ばす,Remember to stretch before you start your workout.
+20,treat,扱う,The doctor will treat the patient with the latest medicine.
+21,cure,治療する,Researchers are working hard to cure cancer.
+22,trust,信頼する,I completely trust my best friend to keep my secrets.
+23,fold,折りたたむ,Please fold the clothes neatly before putting them away.
+24,return,返す、戻す,Don't forget to return the book to the library on time.
+25,explore,探検する,They decided to explore the cave and see what secrets it held.
+26,confirm,確認する,Can you confirm if the meeting is still scheduled for 3 PM?
+27,publish,出版する,The author plans to publish her new novel next month.
+28,warn,警告する,The weather service will warn us if a storm is approaching.
+29,deadline,締切り,The deadline for submitting the project is next Friday.
+30,submit,提出する,Please submit your homework by the end of the week.
+31,state,州,I live in a small state in the United States.
+32,memory,メモリー、思いで,This photo brings back a lot of good memories　from my childhood.
+33,item,品目,The store has many different items on sale today.
+34,calcium,カルシウム,"Milk is rich in calcium, which is important for healthy bones."
+35,save,保存する,Remember to save your work before closing the program.
+36,figure out,分かる,I still can't figure out how to solve this math problem.
+37,reason,理由,The reason for his decision was that he felt it was the right thing to do.
+38,suggest,提案する,She wants to suggest a new idea for the project.
+39,erase,消す、削除する,I accidentally erase the file I was working on.
+40,sunset,日没,We watched the beautiful sunset at the beach yesterday.
+41,noise,騒音,The noise from the construction site made it hard to concentrate.
+42,resource,資源,Water is a valuable resource that we must protect.
+43,honor,名誉,It is an honor to be invited to speak at the conference.
+44,on one's way to ～,～への途中で,I met him on my way to the office this morning.
+45,否定文＋at all,全く～ない,I don’t like spicy food at all.
+46,wave,波,The waves were crashing against the rocks during the storm.
+47,corner,角、隅,There's a small corner in the room where I keep my books.
+48,rule,ルール、決まり,It's important to follow the rules when playing a game.
+49,display,展示,The museum has an impressive display of ancient artifacts.
+50,instead,代わりに,"She went to the store, but she bought a salad instead of a sandwich."
+51,process,過程,Learning a new language can be a long process.
+52,planet,惑星,Earth is the only planet known to support life.
+53,package,小包,I received a package from my friend this morning.
+54,ancestor,祖先,My ancestors came from a small village in Italy.
+55,tease,からかう,"He likes to tease his little sister, but it's all in fun."
+56,earn,稼ぐ,He worked hard to earn enough money for the trip.
+57,deny,否定する,I must deny the accusation because it’s not true.
+58,serve,（飲食物を）出す、 ～に仕える,The waiter will serve your meal shortly.
+59,guard,防御する,The soldiers were trained to guard the castle.
+60,achieve,成し遂げる,She worked tirelessly to achieve her dream of becoming a doctor.
+61,improve,改善する、上達する,He works hard every day to improve his skills.
+62,accept,受け入れる,It's important to accept constructive criticism in order to grow.
+63,tourist,旅行客,The tourists were excited to visit the famous landmarks.
+64,lawyer,弁護士,The lawyer provided valuable advice during the trial.
+65,passenger,乗客,The passenger asked the driver for directions.
+66,customer,客,The customer was satisfied with the service at the restaurant.
+67,vehicle,乗り物,The vehicle broke down on the side of the road.
+68,purpose,目的,The purpose of the meeting was to discuss the new project.
+69,discovery,発見,The discovery of a new species excited the scientific community.
+70,responsibility,責任,It's your responsibility to finish the assignment on time.
+71,employee,従業員,The employee was praised for their excellent performance.
+72,in order to ～,～する目的で、～するために,He studied hard in order to pass the exam.
+73,forecast,予報,The forecast predicts rain for the weekend.
+74,citizen,市民,Every citizen has the right to vote in the election.
+75,dormitory,寮,The dormitory offers shared rooms for students.
+76,belief,信じること,His belief in hard work helped him achieve his dreams.
+77,instead,代わりに,I decided to stay home instead of going out with friends.
+78,audience,観客,The audience applauded after the performance.
+79,director,監督,The director made some changes to the script before filming.
+80,neighbor,隣人,Our neighbor invited us to dinner last weekend.
+81,customer,客,The customer requested a refund for the defective product.
+82,create,創作する,The artist loves to create beautiful paintings in his free time.
+83,crop,作物,The crop yield was excellent this year.
+84,professor,教授,The professor gave a lecture on ancient history.
+85,enemy,敵,The enemy soldiers retreated after the battle.
+86,disease,病気,The doctor is researching ways to treat the disease.
+87,unfortunately,不運にも,"Unfortunately, the concert was canceled due to the weather."
+88,decrease,減る,The number of students in the class will decrease next semester.
+89,talent,才能,She has a natural talent for playing the piano.
+90,figure,数字、形,The figure on the graph shows a steady increase in sales.
+91,climate,天候,The climate in this region is usually warm and sunny.
+92,vision,視力、視覚,He has perfect vision and doesn't need glasses.
+93,loudly,大声で,He spoke so loudly that everyone in the room could hear him.
+94,gently,優しく,The nurse spoke gently to the patient to comfort them.
+95,nearly,ほとんど,"The train is nearly full, but there are still a few seats available."
+96,regularly,定期的に,She works out regularly to stay in shape.
+97,transport,輸送する,The company will transport the goods by truck.
+98,reserve,予約する,I need to reserve a table for two at the restaurant.
+99,delay,遅らせる,The flight was delayed due to bad weather.
+100,hurt,傷つける,Be careful not to hurt yourself while playing sports.
+101,realize,気づく,I didn't realize how late it was until I checked the clock.
+102,departure,出発,The departure of the flight was delayed due to bad weather.
+103,follow,～についていく,It's important to follow the instructions carefully.
+104,project,課題、研究,The students worked hard on their project for the science fair.
+105,drop,落とす,He accidentally dropped his phone on the floor.
+106,shave,剃る,He needs to shave before the meeting.
+107,protect,防御する,The security system is designed to protect the building from intruders.
+108,surprise,驚かせる,She wanted to surprise him with a special gift on his birthday.
+109,trust,信じる,I trust you will make the right decision.
+110,pillow,枕,I always sleep with a soft pillow under my head.
+111,butterfly,蝶,A colorful butterfly landed on the flower in the garden.
+112,flight,飛行機の便,Our flight to Paris was smooth and on time.
+113,emotion,感情,She couldn't hide her emotion when she heard the news.
+114,flavor,味,The soup had a rich flavor that everyone loved.
+115,grocery,食料品,I need to go to the grocery store to buy some vegetables.
+116,microwave,電子レンジ,I heated the leftovers in the microwave.
+117,psychology,心理学,She studied psychology to better understand human behavior.
+118,move,引っ越す、動く,They decided to move to a new city for a fresh start.
+119,solve,解く,He spent hours trying to solve the complex math problem.
+120,locate,位置する,The company was able to locate the missing package.
+121,attract,魅了する,The bright colors of the flowers attract bees.
+122,swing,揺れる、揺らす,The children love to swing on the playground.
+123,at once,すぐに,Please come here at once; it’s urgent.
+124,spread,広げる,We need to spread the word about the event.
+125,belong,属する,"This book belongs to the library, so please return it."
+126,continue,続ける,We will continue working on the project tomorrow.
+127,expect,期待する,She didn’t expect the surprise party.
+128,thanks to ～,～のおかげで,"Thanks to his hard work, the project was completed on time."
+129,appreciation,感謝,I want to express my appreciation for your support.
+130,reduce,減らす,You can reduce waste by recycling and reusing items.
+131,greet,あいさつをする,"When you meet someone, always greet them with a smile."
+132,bark,吠える,The dog began to bark loudly at the mailman.
+133,earn,稼ぐ,He worked hard to earn enough money for his vacation.
+134,neighbor,隣人,My neighbor invited us over for dinner last night.
+135,refuse,拒絶する,She had to refuse the invitation because she was busy.
+136,accept,受け入れる,I will accept the offer for the new job.
+137,notice,気づく,Did you notice the beautiful sunset this evening?
+138,impress,印象づける,The performance was designed to impress the judges.
+139,offer,提供する,The restaurant will offer a variety of dishes on the menu.
+140,whisper,ささやく,She leaned in to whisper a secret in my ear.
+141,serve,出す,The waiter will serve your meal shortly.
+142,relax,くつろぐ,"After a long day, it's nice to relax and unwind."
+143,include,含む,The package will include all the necessary materials.
+144,voyage,航海,The voyage across the ocean took several months.
+145,conclusion,結論,"In conclusion, we can say that the experiment was successful."
+146,energy,エネルギー,The sun gives us energy to power our planet.
+147,shadow,影,His shadow grew longer as the sun began to set.
+148,amount,量,I need to measure the amount of flour for the recipe.
+149,security,警備、安全,The security at the airport is very strict.
+150,height,高さ,The height of the building makes it one of the tallest in the city.
+151,effect,効果,The new medicine had a positive effect on her health.
+152,strict,厳しい,The teacher was strict about late assignments.
+153,guard,警備員,The guard checked everyone's ID before allowing them into the building.
+154,effort,努力,His effort to improve the project was appreciated by the team.
+155,issue,問題、発行物,The magazine published an issue on environmental issues.
+156,flavor,味,The soup had a strong flavor of garlic and onions.
+157,feature,特徴,One of the main features of the phone is its high-quality camera.
+158,go well,うまく行く,Everything seems to go well during the meeting.
+159,label,ラベル、貼り紙,"The label on the package said ""Fragile."""
+160,challenge,挑戦,Climbing Mount Everest is a huge challenge.
+161,receipt,レシート、領収書,Please keep the receipt in case you need to return the item.
+162,impression,印象,She made a great impression on the interviewers.
+163,employee,従業員,The employee was recognized for his excellent customer service.
+164,naturally,自然に,"Naturally, the dog followed its owner wherever she went."
+165,totally,完全に,I am totally amazed by your dedication.
+166,equally,平等に,They treated all the students equally during the competition.
+167,constantly,一定に,He worked constantly to improve his skills.
+168,value,価値,The value of the painting increased over time.
+169,decoration,装飾,The room was decorated with beautiful decorations for the party.
+170,option,選択,There are several options for you to choose from.
+171,factor,要因,The factor that contributed to his success was hard work.
+172,bright,明るい,The bright lights in the city made it look magical at night.
+173,instead,代わりに,I decided to stay home instead of going out.
+174,injured,けがをした,The player was injured during the game and had to leave the field.
+175,satisfied,満足した,She felt satisfied after finishing the challenging task.
+176,bored,退屈した,I was so bored during the meeting that I couldn't concentrate.
+177,exhausted,疲れ切った,"After running the marathon, I was completely exhausted."
+178,rug,敷物、じゅうたん,The rug in the living room added warmth to the space.
+179,campaign,運動、キャンペーン,The charity campaign raised a lot of money for the cause.
+180,advertisement,広告、宣伝,The advertisement was designed to attract more customers.
+181,industry,産業,The industry is seeing rapid changes due to new technology.
+182,editor,編集者,The editor reviewed the manuscript before publishing the book.
+183,strength,力、長所,His strength lies in his ability to solve problems quickly.
+184,influence,影響,Social media has a big influence on public opinion.
+185,conclusion,結論、結末,"In conclusion, I believe the project was a success."
+186,advice,忠告,He gave me some useful advice about managing my time better.
+187,suggest,提案する,I would like to suggest a new strategy for our marketing campaign.
+188,save,救う,The lifeguard was able to save the swimmer from the dangerous current.
+189,control,制御する,She learned to control her emotions during stressful situations.
+190,spread,広げる、広がる,The news about the storm started to spread quickly across town.
+191,solve,解決する,We need to solve the issue before it becomes a bigger problem.
+192,temperature,気温、温度,The temperature today is expected to reach 30°C.
+193,law,法律,The law prohibits the sale of alcohol to minors.
+194,demonstration,実演,The demonstration showed how the new software works.
+195,connection,接続,There was a strong connection between the two ideas in the research.
+196,introduction,紹介、導入,The introduction of the speaker was brief but informative.
+197,master,主人,The master of the house greeted us at the door.
+198,actress,女優,The actress won an award for her outstanding performance in the movie.
+199,owner,所有者、オーナー,The owner of the store gave us a special discount.
+200,editor,編集者,The editor made some final changes to the article before publication.
+201,talented,才能がある,She is a talented singer and always performs beautifully.
+202,imagination,想像（力）,His imagination takes him to magical places when he reads.
+203,nationality,国籍,They were curious about her nationality because of her accent.
+204,psychology,心理学,He decided to study psychology to understand human behavior.
+205,discussion,話し合い、討論,The meeting ended with a discussion about future goals.
+206,prove,証明する,The scientist was able to prove his hypothesis through experiments.
+207,insist,主張する,"She insists on doing everything herself, even when help is offered."
+208,chase,追跡する,The police were able to chase down the suspect.
+209,judge,審判する、判断する,The referee will judge the performance of each team.
+210,hold,開催する,The company will hold a meeting to discuss the new project.
+211,choose,選ぶ,You should choose your words carefully in a sensitive situation.
+212,prize,賞,He won the first prize in the art competition.
+213,fee,料金,The fee for the event was higher than expected.
+214,enemy,敵,The enemy army retreated after the battle.
+215,stair,階段,She ran up the stair to the second floor.
+216,since～,～なので、～以来,"Since it’s raining, we’ll need to cancel the picnic."
+217,individually,個々に,The students were graded individually based on their performance.
+218,physically,肉体的に,The boxer trained physically to prepare for the championship match.
+219,heavily,激しく,"The storm rained heavily, causing flooding in some areas."
+220,properly,適切に,Make sure to clean the equipment properly after use.
+221,develop,開発する、発達させる,The company plans to develop a new line of eco-friendly products.
+222,excuse,弁解する,"He tried to excuse his behavior, but no one accepted it."
+223,hide,隠れる,She decided to hide the gift in the closet until the party.
+224,tease,からかう,The children like to tease each other playfully.
+225,amount of ～,～の量,The amount of sugar in the recipe was too much.
+226,steel,鉄鋼,The steel beams were used to reinforce the building.
+227,sign,標識、合図,The sign on the door indicated the office was closed.
+228,order,注文,I’d like to order a coffee and a sandwich.
+229,root,根、ルーツ,"The tree's root was deep in the ground, holding it firmly in place."
+230,sentence,文,Please write a complete sentence using this word.
+231,customer,客,The customer asked for a refund because the item was damaged.
+232,admit,認める,"He didn't admit to making the mistake, even though it was obvious."
+233,offer,提供する,They offer a variety of services for their customers.
+234,feed,えさをやる,The farmer will feed the animals every morning.
+235,pour,注ぐ,She decided to pour herself a cup of tea.
+236,respect,尊敬する,"I respect your opinion, even though I disagree."
+237,twist,ひねる,He had to twist the knob to open the door.
+238,behave,振る舞う,He was taught how to behave properly in public.
+239,deny,否定する,"She tried to deny the accusation, but the evidence was clear."
+240,exist,存在する,Many scientists believe life could exist on other planets.
+241,describe,表現する、描写する,The artist will describe the scene in great detail in his painting.
+242,reflect,反射する,The mirror will reflect the light from the window.
+243,provide,提供する,The school will provide all the materials needed for the project.
+244,act,行動する,He had to act quickly to save the situation.
+245,compete,競争する,They will compete against each other in the tennis tournament.
+246,wrap,包む,I need to wrap the gift before the party.
+247,obey,従う,It’s important to obey the traffic laws to ensure safety.
+248,regret,後悔する,He will regret not studying harder for the test.
+249,afford,（お金・時間の）余裕がある,I can't afford to buy a new car right now.
+250,retire,引退する,"After many successful years, the athlete decided to retire from professional sports."
+251,fix,修理する,The technician will fix the broken computer.
+252,attack,攻撃する,The enemy attempted to attack the fortress at night.
+253,even though ～,～だけれども,"Even though she was tired, she finished her work on time."
+254,coach,コーチ,The coach gave us some valuable advice before the match.
+255,topic,話題、テーマ,The topic of the meeting was how to improve customer service.
+256,medicine,薬,The doctor prescribed some medicine for her illness.
+257,habit,癖、習慣,He developed a habit of reading before bed every night.
+258,figure,人物、形、数字,The figure of the statue was elegantly carved from marble.
+259,effect,効果,The new treatment showed a positive effect on the patient's health.
+260,human,人間,Human beings have the ability to think and reason.
+261,greatly,非常に、大いに,"The news greatly impacted the community, sparking many discussions."
+262,especially,特に,"Especially during the summer, we love to eat ice cream."
+263,regularly,定期的に,She exercises regularly to maintain a healthy lifestyle.
+264,personally,個人的に,"Personally, I think this book is one of the best I've ever read."
+265,cage,おり、かご,The bird was kept in a cage for safety.
+266,state,州、国家、状態,The country is in a difficult state after the natural disaster.
+267,clinic,クリニック 診療所,I visited the clinic for a routine check-up.
+268,ladder,はしご,The workers used a ladder to reach the high shelves.
+269,waste,浪費する、無駄にする,Don't waste your time on unimportant things.
+270,produce,生産する,The farm will produce more crops this year than last year.
+271,complete,完成させる,He worked hard to complete the project on time.
+272,delete,削除する,Make sure to delete the unnecessary files from your computer.
+273,commercial,コマーシャル,The commercial aired during the prime time slot on TV.
+274,knowledge,知識,His knowledge of history is impressive.
+275,announcement,放送、発表,The announcement was made during the conference to everyone.
+276,dormitory,寮,The dormitory provides accommodation for students.
+277,delayed,遅れた,The flight was delayed due to bad weather.
+278,conference,協議会,The conference will cover a range of topics related to technology.
+279,competition,競技会、競争,"The competition was fierce, but she won first place."
+280,advantage,利点,He has the advantage of speaking several languages fluently.
+281,decision,決定,They made the final decision to expand the business overseas.
+282,shortage,不足,The shortage of food in the area is a serious issue.
+283,conclusion,結論,"In conclusion, we believe that the project is a success."
+284,branch,支店、枝,The company opened a new branch in the city.
+285,fault,欠点、過ち,It's not my fault that the meeting was delayed.
+286,pattern,模様、型,The pattern of the dress was beautiful and intricate.
+287,overseas,海外に,Many people travel overseas for business or pleasure.
+288,reality,現実（性）,The reality of the situation is more complex than we expected.
+289,average,平均,The average score for the exam was 75%.
+290,material,材料,The material for the new building is durable and eco-friendly.
+291,trouble,苦労、困難,They had some trouble finding a suitable place for the event.
+292,in time,間に合って,He arrived in time to catch the last train.
+293,fossil,化石,The scientists discovered a fossil of an ancient animal.
+294,favor,好意、親切な行為,I did him a favor by helping him move his furniture.
+295,puppy,子犬,The puppy played happily in the yard.
+296,courage,勇気,It took a lot of courage for her to speak in front of a large crowd.
+297,dinosaur,恐竜,The dinosaur skeleton was displayed at the museum.
+298,space,空間、宇宙、余地,The astronauts conducted experiments in space during their mission.
+299,view,眺め、景色,The view from the mountain top was breathtaking.
+300,voyage,船旅、航海,The voyage across the ocean took several months to complete.
+301,resort,リゾート、行楽地,The resort by the beach is perfect for a relaxing vacation.
+302,graduation,卒業,She celebrated her graduation with a big party.
+303,prepare,準備する,He spent weeks to prepare for the big exam.
+304,region,地域,This region is known for its beautiful landscapes and rich culture.
+305,policy,政策、方針,The government has changed its policy on renewable energy.
+306,value,価値,The value of this antique painting has increased over time.
+307,crop,作物,The farmers were worried about the poor crop yield this year.
+308,several,いつくかの,Several people attended the conference to discuss climate change.
+309,direction,方向,I asked for directions to the nearest train station.
+310,purpose,目的,The purpose of the meeting is to discuss the new project proposal.
+311,equipment,設備、用具、機械,The company invested in new equipment to improve production.
+312,emergency,緊急事態,"During an emergency, always call for help first."
+313,fix,修理する,The technician came to fix the broken computer.
+314,appointment,予約,I made an appointment with the doctor for a check-up.
+315,instrument,道具、器具,"The musician plays many instruments, including the piano and violin."
+316,atmosphere,雰囲気、大気,The restaurant's atmosphere is warm and inviting.
+317,selection,選択,We had a wide selection of desserts at the party.
+318,dentist,歯医者,I need to see a dentist to check for cavities.
+319,scene,場面、シーン,The scene in the movie was incredibly moving.
+320,fare,料金、運賃,The fare for the bus ride was very affordable.
+321,fee,料金,The fee for the seminar was included in the registration price.
+322,lie,うそ,He told a lie about where he was last night.
+323,lottery,宝くじ,She won the lottery and decided to travel the world.
+324,yell,叫ぶ,They yelled in excitement when the team scored the winning goal.
+325,escape,逃げる,The prisoners tried to escape during the night.
+326,pray,祈る,We pray for peace and hope for a better future.
+327,depend,頼る,He had no one to depend on during the crisis.
+328,excellent,優れた,"Her performance was excellent, and she received a standing ovation."
+329,final,最後の,The final match of the tournament was highly anticipated.
+330,FALSE,間違った,"The answer was FALSE, as we later discovered."
+331,pale,青ざめた,She looked pale after hearing the bad news.
+332,thief,泥棒,The thief stole the valuable painting from the museum.
+333,neighborhood,近所,They are good friends and live in the same neighborhood.
+334,create,創造する,The artist wanted to create a new piece for the exhibition.
+335,hold,保つ、開催する,The event will hold a grand opening next month.
+336,last（動詞）,続く,The meeting will last for about two hours.
+337,save,取り去る,The doctor will save the tissue sample for further testing.
+338,president,社長、大統領,The president gave an inspiring speech to the employees.
+339,century,世紀,The century saw many technological advancements and changes.
+340,tournament,トーナメント,The soccer tournament had teams from all over the world.
+341,defense,防御,The defense team made a strong effort during the game.
+342,failure,失敗,He experienced failure in his first attempt but succeeded later.
+343,environmental,環境の,The company is focused on environmental sustainability.
+344,previous,以前の,The previous version of the software had many bugs.
+345,available,入手できる,"This product is available in stores now, so you can buy it anytime."
+346,superior,優れた,The team received a superior rating for their performance.
+347,product,製品,This product is designed to improve your daily routine.
+348,examine,調べる、試験をする,The doctor will examine the patient to determine the cause of the pain.
+349,regret,後悔する,I regret not taking the opportunity to travel when I had the chance.
+350,cause,引き起こす,The storm can cause severe damage to the city.
+351,mean,意味する,"The word mean means ""to signify or represent."""
+352,various,様々な,"The store sells various types of clothing, from casual to formal."
+353,various,様々な,Various techniques can be used to solve the problem.
+354,illness,病気,She suffered from a serious illness that required hospitalization.
+355,eventually,結局は,"Eventually, they decided to move to a bigger city for better opportunities."
+356,accidentally,誤って、偶然に,She accidentally spilled her coffee on the table.
+357,fluently,流ちょうに,"He speaks fluently in three languages, including Spanish and English."
+358,generally,一般的に,"Generally, people enjoy spending time with family during holidays."
+359,request,リクエスト、依頼,I sent a request for more information about the course.
+360,favor,親切な行為、好意,He did me a favor by picking up my package from the post office.
+361,pollution,汚染,Pollution is a major concern in cities with high traffic and industrial activity.
+362,costume,衣装,She wore a beautiful costume for the Halloween party.
+363,postpone,延期する,"Due to bad weather, the event was postponed to next week."
+364,deadline,締切り,Make sure to submit your work before the deadline.
+365,develop,開発する,The company plans to develop a new software program for its clients.
+366,imagine,想像する,Can you imagine living in a world without technology?
+367,melt,溶かす、溶ける,The ice will melt once the temperature rises above freezing.
+368,destroy,破壊する,The earthquake destroyed several buildings in the city.
+369,promising,有望な,"The new project seems promising, and we expect good results."
+370,flavor,味,The soup had a rich flavor with hints of garlic and basil.
+371,wheat,小麦,Wheat is commonly used to make flour for baking bread.
+372,maid,メイド、お手伝い,The maid cleaned the house and prepared dinner for the family.
+373,image,イメージ、映像,The image of the sunset was captured beautifully in the photograph.
+374,flour,小麦粉,We need to buy more flour to bake the cake.
+375,attract,魅了する,Bright colors often attract attention in fashion.
+376,require,必要とする,This job requires excellent communication skills.
+377,complain,不平を言う,He began to complain about the long wait at the restaurant.
+378,hide,隠す、隠れる,The children hide behind the curtains when playing hide-and-seek.
+379,exhausted,疲れ果てた,"After a long day at work, she felt completely exhausted."
+380,damage,損害を与える,"The storm damaged the roof, requiring expensive repairs."
+381,waste,無駄にする,Don’t waste your time on things that don’t matter.
+382,arrange,手配する、準備する,She helped arrange the details for the conference next month.
+383,avoid,避ける,It's better to avoid heavy traffic by leaving earlier.
+384,function,機能,The phone's function is to make calls and send messages.
+385,lecture,講義,The professor gave an interesting lecture on climate change.
+386,performance,演技、パフォーマンス,The performance by the dancers was breathtaking.
+387,construction,工事,The construction of the new building will take two years.
+388,government,政府,The government is working to improve public transportation.
+389,aquarium,水族館,The aquarium had a wide variety of fish and marine life.
+390,assignment,宿題、課題,I have to finish my assignment by tomorrow.
+391,movement,運動、動き,The movement of the dancers was synchronized perfectly with the music.
+392,expression,表現,His expression showed how happy he was to receive the award.
+393,concentration,集中,I need to work on my concentration to focus better on tasks.
+394,poem,詩,She wrote a beautiful poem about nature.
+395,impression,印象,His impression of the new movie was very positive.
+396,recovery,回復,"After a long illness, his recovery was slow but steady."
+397,notice,掲示、通知,There was a notice on the door saying the office would be closed today.
+398,match,試合,They won the match after a tough competition.
+399,nervous,緊張した,She felt nervous before her big presentation.
+400,visible,目に見える,The stars were clearly visible in the night sky.
+401,tight,きつい,"The shoes were tight, so I couldn’t wear them for too long."
+402,plain,地味な、簡素な,The room was decorated in a plain style with simple furniture.
+403,noisy,うるさい,The street was noisy because of the construction work happening nearby.
+404,pattern,模様、様式,The wallpaper had a floral pattern that made the room feel cozy.
+405,besides,さらに、その上,"Besides the delicious food, the restaurant also had great service."
+406,scary,恐ろしい,The horror movie was so scary that I couldn't sleep after watching it.
+407,friendly,友好的な,He is a friendly person who gets along with everyone.
+408,painful,苦痛な,The dentist's drill caused painful discomfort during the procedure.
+409,narrow,狭い,The alley was too narrow for the car to pass through.
+410,arrival,到着,The arrival of the new product was announced at the press conference.
+411,explorer,探検家,The famous explorer traveled across the world to discover new lands.
+412,engine,エンジン,The engine of the car broke down during our road trip.
+413,choice,選択,She had to make a difficult choice between two great job offers.
+414,actress,女優,The actress won an award for her outstanding performance in the film.
+415,visitor,訪問者,The visitor was welcomed with a warm handshake and smile.
+416,schedule,スケジュール,We need to check the schedule for the meeting next week.
+417,secret,秘密,They shared a secret about their plans for the surprise party.
+418,excuse,言い訳,Don’t make an excuse for not finishing your work; just do it.
+419,promise,約束する,I promise to always support you no matter what happens.
+420,besides,さらに、その上,"Besides being a great athlete, she is also a talented musician."
+421,successful,成功した,The successful launch of the product boosted the company's reputation.
+422,narrow,狭い,"The path became narrow, and it was difficult to continue walking."
+423,round,丸い,The round table in the dining room makes the space feel open.
+424,negative,否定の,His negative attitude made it hard for him to get along with others.
+425,operate,操作する、手術する,The surgeon will operate on the patient to remove the tumor.
+426,improve,上達する、改善する,She worked hard to improve her skills in playing the piano.
+427,breathe,呼吸する,Take deep breaths to breathe easily and calm yourself down.
+428,forgive,許す,It's important to forgive others if you want to maintain good relationships.
+429,separate,分ける,We need to separate the recyclable items from the regular trash.
+430,apologize,謝る,I need to apologize for being late to the meeting.
+431,allow,許す、許可する,Parents should allow their children to make their own decisions sometimes.
+432,succeed,成功する,He worked hard and finally managed to succeed in his business.
+433,anniversary,記念日,We celebrated our wedding anniversary with a romantic dinner.
+434,reservation,予約,We made a reservation at the restaurant for 7 p.m.
+435,direction,方向,Can you give me directions to the nearest gas station?
+436,instruction,指示、訓練,The teacher gave clear instructions on how to complete the assignment.
+437,round,丸い,The round table was perfect for family dinners.
+438,specific,特定の、明確な,The company is looking for a specific type of software for its new project.
+439,steady,着実な,He made steady progress on his project over the past week.
+440,violent,乱暴な、激しい,The violent storm caused significant damage to the coastal areas.
+441,statement,声明,The government issued a statement regarding the new policy changes.
+442,increase,増加,There was a significant increase in sales after the advertisement campaign.
+443,security,警備,The security at the airport was tighter after the recent threat.
+444,recycling,リサイクル,Recycling is essential for reducing waste and protecting the environment.
+445,air pollution,空気汚染,Air pollution is a serious issue in many large cities worldwide.
+446,resort,リゾート,We spent a relaxing weekend at a resort in the mountains.
+447,forecast,予報,The weather forecast predicts rain for the next few days.
+448,signal,信号、合図,He gave me a signal to stop talking during the meeting.
+449,voyage,航海,The voyage across the ocean took several months to complete.
+450,in that case,その場合,"In that case, we should reconsider our plans and find an alternative solution."
+451,opportunity,機会,"She got an opportunity to study abroad, which she was very excited about."
+452,instead,代わりに,"Instead of going to the beach, we decided to visit the museum."
+453,luckily,運よく,"Luckily, I found my lost wallet on the street this morning."
+454,regularly,定期的に、規則正しく,She exercises regularly to stay in good shape.
+455,seldom,めったに～しない,I seldom eat fast food because I prefer healthier options.
+456,model,模型、モデル,The children built a model of a house using popsicle sticks.
+457,region,地域,This region is known for its beautiful mountains and lakes.
+458,species,種,Many species of animals are endangered due to habitat loss.
+459,reward,報酬,"As a reward for his hard work, he was given a bonus."
+460,population,人口,The city's population has been growing rapidly over the past decade.
+461,passenger,乗客,The passenger in the front seat asked the driver to stop the car.
+462,audience,観客,The audience cheered loudly after the performance.
+463,argument,口論、論争,The argument between the two friends lasted for hours.
+464,publish,出版する,The company decided to publish a book about its history.
+465,twist,ひねる,She had to twist the key several times before the door opened.
+466,explore,探検する,He loves to explore new places whenever he travels.
+467,amuse,楽しませる,The comedian tried to amuse the audience with jokes and funny stories.
+468,finally,ついに,"Finally, the long wait for the train came to an end."
+469,novel,小説,He wrote a novel based on his childhood memories.
+470,stage,ステージ,The play will be performed on the stage in front of an audience.
+471,rumor,うわさ,There was a rumor going around about a surprise announcement.
+472,level,レベル、水準,The company's sales reached a new level this quarter.
+473,position,位置、地位,The position of the sun in the sky determines the time of day.
+474,matter,問題,"The doctor said that it's not a serious matter, but we should keep an eye on it."
+475,forever,永久に,They promised to love each other forever.
+476,frankly,率直に、正直に,"Frankly, I don’t think that idea will work."
+477,naturally,自然に,She is naturally talented at playing the piano.
+478,equally,同程度に、等しく,"The two teams were equally matched in skill, making it an exciting game."
+479,flavor,味,The flavor of the soup improved after adding some herbs.
+480,aisle,通路,The bride walked down the aisle to meet her groom at the altar.
+481,dessert,デザート,The dessert at the restaurant was so delicious that I had to order more.
+482,shelter,避難所,The community built a shelter for the homeless people in the area.
+483,typical,典型的な,This town has a typical small-town feel with friendly people.
+484,stressful,ストレスのたまる,Working long hours in a busy office can be quite stressful.
+485,nervous,緊張した,He felt nervous before his big presentation at work.
+486,suitable,ふさわしい,This dress is suitable for formal events like weddings or parties.
+487,shortage,不足,There is a shortage of clean drinking water in some areas of the world.
+488,method,方法,We need to find a better method for solving this problem.
+489,quality,品質,The quality of the materials used in the construction was excellent.
+490,property,財産,The house was passed down as family property.
+491,receptionist,受付係,The receptionist greeted visitors as they entered the building.
+492,originally,元々は,"Originally, they planned to go to Paris, but they changed their destination."
+493,clearly,明らかに,The answer was clearly stated in the instructions.
+494,secretly,ひそかに,He secretly planned a surprise birthday party for his wife.
+495,currently,現在,"Currently, the project is in the research phase."
+496,supply,供給,The company was able to supply the necessary parts for the machines.
+497,float,浮く物,The boat floated peacefully on the calm lake.
+498,import,輸入,The country imports a lot of goods from overseas.
+499,arrival,到着,The arrival of the new train was delayed by an hour.
+500,various,様々な,The store offers various types of clothing for all occasions.
+501,raw material,原材料,The factory uses raw materials such as wood and metal to make furniture.
+502,advantage,利点,The advantage of this system is that it’s faster and more efficient.
+503,suggestion,提案,I have a suggestion for improving the workflow in our office.
+504,victim,犠牲者,The victim of the accident was rushed to the hospital.
+505,relation,関係,They have a good working relation with their clients.
+506,countryside,田舎,"I enjoy spending time in the countryside, away from the busy city life."
+507,location,位置,The location of the restaurant makes it easy to get to from the subway station.
+508,opportunity,機会,This is a great opportunity to learn new skills and advance in your career.
+509,discovery,発見,The discovery of the ancient artifact was a major breakthrough.
+510,separation,分離,The separation of the two departments was necessary for better efficiency.

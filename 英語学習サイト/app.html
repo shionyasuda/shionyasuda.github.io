@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>スピード英単語</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f4f8;
+    }
+    header {
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      font-size: 24px;
+      font-weight: bold;
+      position: absolute;
+      top: 0;
+    }
+    .quiz-container {
+      text-align: center;
+      max-width: 600px;
+      width: 100%;
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .question {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    .option-button {
+      background-color: #4CAF50;
+      color: white;
+      font-size: 18px;
+      padding: 10px 20px;
+      margin: 10px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 45%;
+    }
+    .option-button:hover {
+      background-color: #45a049;
+    }
+    .score {
+      font-size: 20px;
+      margin-top: 20px;
+    }
+    .answer {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+    .restart-btn {
+      background-color: #007BFF;
+      color: white;
+      padding: 10px 20px;
+      font-size: 18px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    .restart-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    スピード英単語
+  </header>
+<div class="quiz-container">
+  <div id="quiz-start" class="start">
+    <button class="restart-btn" onclick="startQuiz()">Start Quiz</button>
+  </div>
+
+  <div id="quiz-ongoing" style="display: none;">
+    <div class="question">
+      Question <span id="current-question-number">1</span> / 30
+    </div>
+    <div id="question-word"></div>
+    <div id="options-container" class="options-container"></div>
+  </div>
+
+  <div id="quiz-finished" style="display: none;">
+    <div class="question">Quiz Finished!</div>
+    <div class="score">Your score: <span id="final-score"></span> / 30</div>
+    <div id="answers-summary"></div>
+    <button class="restart-btn" onclick="restartQuiz()">Restart Quiz</button>
+  </div>
+</div>
+
+<script>
+  const vocabList = [
+    { word: "energy", meaning: "エネルギー" },
+    { word: "condition", meaning: "条件、コンディション" },
+    { word: "stairs", meaning: "階段" },
+    { word: "flu", meaning: "インフルエンザ" },
+    { word: "celebrate", meaning: "祝う" },
+    { word: "energy", meaning: "エネルギー" },
+    { word: "condition", meaning: "条件、コンディション" },
+    { word: "stairs", meaning: "階段" },
+    { word: "flu", meaning: "インフルエンザ" },
+    { word: "celebrate", meaning: "祝う" },
+    { word: "energy", meaning: "エネルギー" },
+    { word: "condition", meaning: "条件、コンディション" },
+    { word: "stairs", meaning: "階段" },
+    { word: "flu", meaning: "インフルエンザ" },
+    { word: "celebrate", meaning: "祝う" },
+    { word: "energy", meaning: "エネルギー" },
+    { word: "condition", meaning: "条件、コンディション" },
+    { word: "stairs", meaning: "階段" },
+    { word: "flu", meaning: "インフルエンザ" },
+    { word: "celebrate", meaning: "祝う" },
+    { word: "energy", meaning: "エネルギー" },
+    { word: "condition", meaning: "条件、コンディション" },
+    { word: "stairs", meaning: "階段" },
+    { word: "flu", meaning: "インフルエンザ" },
+    { word: "celebrate", meaning: "祝う" }, { word: "energy", meaning: "エネルギー" },
+    { word: "condition", meaning: "条件、コンディション" },
+    { word: "stairs", meaning: "階段" },
+    { word: "flu", meaning: "インフルエンザ" },
+    { word: "celebrate", meaning: "祝う" },
+    // Add more vocab items as needed
+  ];
+
+  let currentQuestion = 0;
+  let score = 0;
+  let selectedAnswers = [];
+  let quizStarted = false;
+
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
+
+  function startQuiz() {
+    quizStarted = true;
+    document.getElementById("quiz-start").style.display = "none";
+    document.getElementById("quiz-ongoing").style.display = "block";
+    showQuestion();
+  }
+
+  function showQuestion() {
+    const currentVocab = vocabList[currentQuestion];
+    document.getElementById("current-question-number").innerText = currentQuestion + 1;
+
+    const correctAnswer = currentVocab.meaning;
+    const incorrectAnswers = shuffleArray(vocabList.filter((_, index) => index !== currentQuestion)
+      .map(item => item.meaning))
+      .slice(0, 3);
+    
+    const options = shuffleArray([correctAnswer, ...incorrectAnswers]);
+
+    document.getElementById("question-word").innerText = currentVocab.word;
+
+    const optionsContainer = document.getElementById("options-container");
+    optionsContainer.innerHTML = '';
+    options.forEach((option, index) => {
+      const button = document.createElement("button");
+      button.classList.add("option-button");
+      button.innerText = option;
+      button.onclick = () => handleAnswer(option);
+      optionsContainer.appendChild(button);
+    });
+  }
+
+  function handleAnswer(selectedOption) {
+    const correctAnswer = vocabList[currentQuestion].meaning;
+    const isCorrect = selectedOption === correctAnswer;
+
+    if (isCorrect) {
+      score++;
+    }
+
+    selectedAnswers.push({
+      question: vocabList[currentQuestion].word,
+      selected: selectedOption,
+      correct: correctAnswer,
+    });
+
+    if (currentQuestion === 29) {
+      showResults();
+    } else {
+      currentQuestion++;
+      showQuestion();
+    }
+  }
+
+  function showResults() {
+    document.getElementById("quiz-ongoing").style.display = "none";
+    document.getElementById("quiz-finished").style.display = "block";
+    document.getElementById("final-score").innerText = score;
+
+    const answersSummary = document.getElementById("answers-summary");
+    answersSummary.innerHTML = selectedAnswers.map((answer, index) => {
+      return `<p class="answer" style="color: ${answer.selected === answer.correct ? 'green' : 'red'};">
+        ${index + 1}. ${answer.question} - Selected: ${answer.selected} (Correct: ${answer.correct})
+      </p>`;
+    }).join('');
+  }
+
+  function restartQuiz() {
+    currentQuestion = 0;
+    score = 0;
+    selectedAnswers = [];
+    quizStarted = false;
+
+    document.getElementById("quiz-finished").style.display = "none";
+    document.getElementById("quiz-start").style.display = "block";
+  }
+</script>
+
+</body>
+</html>
